@@ -24,8 +24,4 @@ Assuming you have granted required permisions to the run file, type "./run --no-
 To run the results for both,, the assembler and the simulator, go to Automated Testing folder and open bash/terminal.
 Assuming you have granted required permisions to the run file, type "./run" or "./run --verbose" [for verbose output] {without quotes}.
 
-
-IMPORTANT ANNOUNCEMENT:
-Section-A students, please checkout classroom comments under the Project/Assignment Page on Google Classroom.
-Section-B students, please checkout classroom comments under the Project/Assignment Discussion Sesssion-1 Page on Google Classroom.
 _________________________________________________________________________________________________________________________________________________________________________
